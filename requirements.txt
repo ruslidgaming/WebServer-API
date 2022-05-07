@@ -1,0 +1,7 @@
+telebot==0.0.4
+pandas==1.4.2
+dataframe_image==0.1.1
+shedule==1.1.
+telegram==0.0.1
+datetime==4.4
+time==1.0.0
